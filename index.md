@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/slothplaysnecro/slothplaysnecro.github.io/master/images/Blood_Is_Power.png" alt="Blood Is Power"/>
 </p>
 
-![bip](/images/Blood_Is_Power.png)
-
 **Researchers in Plague** is a PvE guild made entirely of necromancer mains and enthusiasts. We only run necromancers and common support builds in our endgame PvE.
 
 ## Rules
