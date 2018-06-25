@@ -1,6 +1,6 @@
 # We main necromancer.
 
-[bip](/images/Blood_Is_Power.png)
+![bip](/images/Blood_Is_Power.png)
 
 **Researchers in Plague** is a PvE guild made entirely of necromancer mains and enthusiasts. We only run necromancers and common support builds in our endgame PvE.
 
