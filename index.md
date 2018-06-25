@@ -22,12 +22,8 @@ Endgame content is defined as any dungeon, raid, or fractal. You can bring whate
 
 ![warrior](/images/warrior.png) A warrior build that brings both Banner of Strength and Banner of Discipline. **Please run Empower Allies if you have two or more power necros.**
 
-###Acceptable Non-Necro DPS Builds
+### Acceptable Non-Necro DPS Builds
 
 ![mirage](/images/mirage.png) If the guild is fighting Matthias, it is okay to run one mirage for reflects.
 
-<<<<<<< HEAD
 ![engi](/images/engi.png) DPS engineers may be run in tandem with condi necros to boost DPS with Pinpoint Distribution.
-=======
-![engi](/images/engi.png) DPS engineers may be run in tandem with condi necros to boost DPS with Pinpoint Distribution.
->>>>>>> 9d75cbdfeb7908ed47386400b58ae2424a3b228a
